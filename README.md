@@ -9,6 +9,9 @@ I'm a Front-End developer, based in Mexico. I spend my time coding things that l
 <a href="https://codepen.io/osoriodev">
   <img src="https://skillicons.dev/icons?i=codepen" alt="Codepen">
 </a>&nbsp;
+<a href="https://www.frontendmentor.io/profile/osoriodev">
+  <img src="https://i.ibb.co/w7NCWvc/fm.png" alt="Frontend Mentor">
+</a>&nbsp;
 <a href="https://twitter.com/osoriodev">
   <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter">
 </a>&nbsp;
@@ -25,7 +28,27 @@ I started to venture into the world of programming several years ago and after t
 
 ## Technologies & Tools
 
-![Technologies](https://skillicons.dev/icons?i=html,css,js,pug,sass,ts,webpack,react,nextjs,nodejs,bash,netlify,vercel,vscode,figma)
+![HTML](https://skillicons.dev/icons?i=html)&nbsp;
+![CSS](https://skillicons.dev/icons?i=css)&nbsp;
+![JavaScript](https://skillicons.dev/icons?i=js)&nbsp;
+![PUG](https://skillicons.dev/icons?i=pug)&nbsp;
+![SASS](https://skillicons.dev/icons?i=sass)&nbsp;
+![TypeScript](https://skillicons.dev/icons?i=ts)&nbsp;
+![Webpack](https://skillicons.dev/icons?i=webpack)&nbsp;
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)&nbsp;
+![React](https://skillicons.dev/icons?i=react)&nbsp;
+![Material UI](https://skillicons.dev/icons?i=materialui)&nbsp;
+![Styled Components](https://skillicons.dev/icons?i=styledcomponents)&nbsp;
+![Next js](https://skillicons.dev/icons?i=nextjs)&nbsp;
+![Node js](https://skillicons.dev/icons?i=nodejs)&nbsp;
+![Regex](https://skillicons.dev/icons?i=regex)&nbsp;
+![Git](https://skillicons.dev/icons?i=git)&nbsp;
+![Bash](https://skillicons.dev/icons?i=bash)&nbsp;
+![Markdown](https://skillicons.dev/icons?i=md)&nbsp;
+![Netlify](https://skillicons.dev/icons?i=netlify)&nbsp;
+![Vercel](https://skillicons.dev/icons?i=vercel)&nbsp;
+![VSCode](https://skillicons.dev/icons?i=vscode)&nbsp;
+![Figma](https://skillicons.dev/icons?i=figma)
 
 ## GitHub Stats
 
