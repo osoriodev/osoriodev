@@ -6,15 +6,15 @@ I'm a Front-End developer, based in Mexico. I spend my time coding things that l
 
 ## You can find me on:
 
-<a href="https://codepen.io/osoriodev" style="margin-right: 10px; text-decoration: none">
+<a href="https://codepen.io/osoriodev">
   <img src="https://skillicons.dev/icons?i=codepen" alt="Codepen">
-</a>
-<a href="https://twitter.com/osoriodev" style="margin-right: 10px; text-decoration: none">
+</a>&nbsp;
+<a href="https://twitter.com/osoriodev">
   <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter">
-</a>
-<a href="https://www.linkedin.com/in/osoriodev" style="margin-right: 10px; text-decoration: none">
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/osoriodev">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
-</a>
+</a>&nbsp;
 <a href="https://www.instagram.com/osorio.dev/">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
 </a>
@@ -29,6 +29,10 @@ I started to venture into the world of programming several years ago and after t
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=osoriodev&count_private=true&show_icons=true&theme=buefy" alt="GitHub Stats" style="display:block;margin:0 auto 15px;">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=osoriodev&count_private=true&show_icons=true&theme=buefy" alt="GitHub Stats">
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=osoriodev&theme=buefy" alt="GitHub Streak" style="display:block;margin:0 auto;">
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=osoriodev&theme=buefy" alt="GitHub Streak">
+</p>
